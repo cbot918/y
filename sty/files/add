@@ -1,0 +1,3 @@
+; ADD
+push "10 + 2 = " print
+push 10 push 2 += uputln
